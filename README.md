@@ -7,3 +7,6 @@ Quantum XO is a two-player strategy game developed using C++. The game is played
 - Draw Condition – If the grid is completely filled and no player has won, the game ends in a draw.
 - Interactive Console Interface – The game runs in a command-line environment, allowing easy interaction.
 - Efficient Logic Implementation – Uses fundamental C++ programming techniques such as loops, conditionals, and arrays for game management.
+# Technologies Used
+- Programming Language: C++
+- Development Environment: Any C++ compiler (GCC, MSVC, Clang, etc.)
