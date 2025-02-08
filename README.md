@@ -10,3 +10,7 @@ Quantum XO is a two-player strategy game developed using C++. The game is played
 # Technologies Used
 - Programming Language: C++
 - Development Environment: Any C++ compiler (GCC, MSVC, Clang, etc.)
+# Home Page Visualization 
+![WhatsApp Image 2025-02-08 at 11 57 20_672b2dcf](https://github.com/user-attachments/assets/1fe1e50d-c56f-468d-8d22-efe48ffaa449)
+![WhatsApp Image 2025-02-08 at 11 58 32_22ed8955](https://github.com/user-attachments/assets/785e35f8-812e-4b7f-ba38-07b75c9ba2d7)
+
